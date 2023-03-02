@@ -8,6 +8,6 @@ public class MyNameController {
 
     @GetMapping({"/", "/home", "/status"})
     public String getName(){
-        return "Mi nombre es Juan Camilo Rojas Pulido";
+        return "Mi nombre es Juan Camilo Rojas Castro";
     }
 }
